@@ -1,4 +1,4 @@
-#include "triangle.h"
+/*#include "triangle.h"
 #include <exception>
 
 
@@ -16,3 +16,4 @@ float Triangle::get_area(bool has_depth) const
 
 	return float(0.5 * _base * _height);
 }
+*/

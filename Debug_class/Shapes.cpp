@@ -1,4 +1,4 @@
-#include "shape.h"
+/*#include "shape.h"
 #include "triangle.h"
 #include <iostream>
 
@@ -14,3 +14,4 @@ int main()
 
 	return 0;
 }
+*/

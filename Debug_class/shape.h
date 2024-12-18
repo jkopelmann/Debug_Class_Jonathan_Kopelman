@@ -1,4 +1,4 @@
-#ifndef __SHAPE_H__
+/*#ifndef __SHAPE_H__
 #define __SHAPE_H__
 
 class Shape 
@@ -13,6 +13,6 @@ public:
 	virtual float get_area() const;
 	
 
-};
+};*/
 
-#endif	// __SHAPE_H__
+//#endif	// __SHAPE_H__

@@ -1,4 +1,4 @@
-#ifndef __TRIANGLE_H__
+/*#ifndef __TRIANGLE_H__
 #define __TRIANGLE_H__
 
 #include "shape.h"
@@ -12,7 +12,7 @@ public:
 	Triangle(float base, float height);
 	virtual float get_area(bool has_depth = false) const;
 
-};
+};*/
 
 
-#endif	// __TRIANGLE_H__
+//#endif	// __TRIANGLE_H__

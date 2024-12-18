@@ -33,6 +33,12 @@
     <ClCompile Include="triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="part1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\DebugWorkshop\SafeAndSound\SafeAndSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\DebugWorkshop\MyPointExactly\Point.h">
@@ -42,6 +48,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="part1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

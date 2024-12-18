@@ -129,13 +129,16 @@
   <ItemGroup>
     <ClCompile Include="..\..\DebugWorkshop\MyPointExactly\main.cpp" />
     <ClCompile Include="..\..\DebugWorkshop\MyPointExactly\Point.cpp" />
+    <ClCompile Include="..\..\DebugWorkshop\SafeAndSound\SafeAndSound.cpp" />
     <ClCompile Include="LoopAgain.cpp" />
+    <ClCompile Include="part1.cpp" />
     <ClCompile Include="shape.cpp" />
     <ClCompile Include="Shapes.cpp" />
     <ClCompile Include="triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\DebugWorkshop\MyPointExactly\Point.h" />
+    <ClInclude Include="part1.h" />
     <ClInclude Include="shape.h" />
     <ClInclude Include="triangle.h" />
   </ItemGroup>
