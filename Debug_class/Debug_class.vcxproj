@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\DebugWorkshop\MyPointExactly\main.cpp" />
     <ClCompile Include="..\..\DebugWorkshop\MyPointExactly\Point.cpp" />
+    <ClCompile Include="LoopAgain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\DebugWorkshop\MyPointExactly\Point.h" />

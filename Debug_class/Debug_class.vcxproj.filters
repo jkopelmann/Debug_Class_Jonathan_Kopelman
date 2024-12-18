@@ -21,6 +21,9 @@
     <ClCompile Include="..\..\DebugWorkshop\MyPointExactly\Point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LoopAgain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\DebugWorkshop\MyPointExactly\Point.h">
